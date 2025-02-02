@@ -15,9 +15,9 @@
 ### **Noise Types Added to Marathi Speech**  
 - *Gaussian Noise*  
 - *White Noise*
-- **Pink Noise*
-- **Babble Noise*
-- **Band-Limited Noise*
+- *Pink Noise*
+- *Babble Noise*
+- *Band-Limited Noise*
 
 **Processed Data Storage**:  
 The preprocessed English and Marathi noisy speech files were saved in separate directories 
