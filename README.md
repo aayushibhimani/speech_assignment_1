@@ -21,3 +21,14 @@
 
 **Processed Data Storage**:  
 The preprocessed English and Marathi noisy speech files were saved in separate directories 
+
+
+## Task 2 Files - M23CSA017 (Prabhat Ranjan)
+- `m23csa017_task2_a.ipynb` - Task 2A Implementation
+- `m23csa017_task2_b.ipynb` - Task 2B Implementation
+
+
+
+## Task 2 Files - M23CSE001 (Aayushi Bhimani)
+- `m23cse001_assignment1_task2A.ipynb` - Task 2A Implementation
+- `m23cse001_assignment1_task2B.ipynb` - Task 2B Implementation
